@@ -2,7 +2,7 @@
 
 Hi👋 !! I'm Paila veera venkata siva kumar
 
-💫About Me :
+💫About Me:
 
 👩‍🎓 I am BTECH Undergrad majoring in Electronics and communication engineering at Visakha Institute of engineering and Technology.
 
