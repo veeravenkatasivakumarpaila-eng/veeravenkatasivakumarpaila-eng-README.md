@@ -16,5 +16,5 @@ Hi👋 !! I'm Paila veera venkata siva kumar
 
 💫 I’m a frontend developer.
 
-📫 How to reach me: veeravenkatasivakumar.paila@gmail.com
+📫How to reach me: veeravenkatasivakumar.paila@gmail.com
         
