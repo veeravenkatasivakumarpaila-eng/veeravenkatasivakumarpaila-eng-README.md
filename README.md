@@ -12,7 +12,7 @@ Hi👋 !! I'm Paila veera venkata siva kumar
 
 👯 I’m looking to collaborate with like minded individuals.
 
-👩‍💻 Constantly learning. I'm very interested in Open Source!
+👩‍💻 Constantly learning. I'm very interested in Open Source.
 
 💫 I’m a frontend developer.
 
