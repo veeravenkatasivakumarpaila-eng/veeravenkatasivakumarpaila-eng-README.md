@@ -4,7 +4,7 @@ Hi👋 !! I'm Paila veera venkata siva kumar
 
 💫About Me:
 
-👩‍🎓 I am BTECH Undergrad majoring in Electronics and Communication Engineering at Visakha Institute of Engineering and Technology.
+👩‍🎓 I am BTECH Undergrad majoring in Electronics and communication engineering at Visakha Institute of Engineering and Technology.
 
 😄 Pronouns: he/him.
 
