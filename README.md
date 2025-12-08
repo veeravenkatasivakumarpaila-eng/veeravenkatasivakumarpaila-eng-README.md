@@ -8,7 +8,7 @@ Hi👋 !! I'm Paila veera venkata siva kumar
 
 😄 Pronouns: he/him.
 
-🌱 I’m currently learning Full stack java.
+🌱 I’m currently learning Full Stack Java.
 
 👯 I’m looking to collaborate with like minded individuals.
 
