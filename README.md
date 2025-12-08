@@ -14,7 +14,7 @@ Hi👋 !! I'm Paila veera venkata siva kumar
 
 👩‍💻 Constantly learning. I'm very interested in Open Source.
 
-💫 I’m a frontend developer.
+💫 I’m a Frontend Developer.
 
 📫How to reach me:  veeravenkatasivakumar.paila@gmail.com
         
